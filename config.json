@@ -1,8 +1,8 @@
 {
-    "energy_booster": false,
-    "turbo_booster": false,
+    "energy_booster": True,
+    "turbo_booster": True,
     "auto_claim_combo": false,
-    "crazy_damage": false,
+    "crazy_damage": True,
     "attempt_hit_boss": 6,
     "min_damage": 2000000,
     "max_damage": 50000000,
